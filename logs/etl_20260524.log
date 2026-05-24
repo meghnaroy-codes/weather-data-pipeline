@@ -1,0 +1,11 @@
+2026-05-24 21:22:10,446 - INFO - Starting ETL pipeline...
+2026-05-24 21:22:10,446 - INFO - Connecting to database...
+2026-05-24 21:22:10,481 - INFO - Connection successful
+2026-05-24 21:22:10,481 - INFO - Clearing table...
+2026-05-24 21:22:10,503 - INFO - Table cleared
+2026-05-24 21:22:10,503 - INFO - Loading file: C:/Users/Meghna/OneDrive/Desktop/projects/weather-data-pipeline/weather_data.csv
+2026-05-24 21:22:13,324 - INFO - Data loaded successfully
+2026-05-24 21:22:13,324 - INFO - Database connection closed
+2026-05-24 21:22:13,465 - INFO - Row count after load: 1000000
+2026-05-24 21:22:13,465 - INFO - Validation successful \u2714
+2026-05-24 21:22:13,471 - INFO - ETL pipeline completed
